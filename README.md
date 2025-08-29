@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://picsum.photos/seed/sentinel-logo/150/150" alt="Sentinel Logo" />
+  <img src="/img/sentinel.png" alt="Sentinel Logo" />
   <h1>Sentinel: Real-Time Trend Detection Engine</h1>
   <p>
     A high-performance dashboard for real-time social media and news trend detection, sentiment analysis, and viral event alerting.
