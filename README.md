@@ -34,7 +34,7 @@ This project showcases a scalable, resilient system architecture capable of proc
 ## 🖼️ Screenshots
 
 <div align="center">
-  <img src="https://picsum.photos/seed/dashboard-dark/900/500" alt="Dashboard Dark Mode" width="80%">
+  <img src="/img/sentinel.png" alt="Dashboard Dark Mode" width="80%">
   <p><em>Sentinel's primary dashboard in dark mode.</em></p>
 </div>
 
