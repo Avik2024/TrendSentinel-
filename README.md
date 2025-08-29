@@ -125,5 +125,5 @@ To run the frontend simulation locally:
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-<h2>Video Demo</h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Vedio Demo
+https://youtu.be/7zYp8CSfiAA
