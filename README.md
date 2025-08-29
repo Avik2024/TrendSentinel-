@@ -124,3 +124,7 @@ To run the frontend simulation locally:
 ## 📄 License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+## Vedio Demo 
+
+<video controls src="Social_media_feed.mp4" title="Sentinel"></video>
