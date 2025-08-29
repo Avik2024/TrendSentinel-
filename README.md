@@ -58,7 +58,7 @@ This project is composed of a sophisticated backend for data processing and a mo
 The architecture is designed for scalability, low latency, and fault tolerance, handling massive volumes of data in real time.
 
 <div align="center">
-  <img src="https://picsum.photos/seed/architecture/800/400" alt="System Architecture Diagram">
+  <img src="/img/architecture.jpeg" alt="System Architecture Diagram">
   <p><em>High-Level System Architecture Diagram</em></p>
 </div>
 
